@@ -1,0 +1,26 @@
+/*
+Theme Name: vgimmigration Custom Theme
+Theme URI: https://wordpress.org/
+Author: Zoomweb
+Author URI: https://wordpress.org/
+Version: 1.0
+*/
+form#clb-form {
+    text-align: left!important;
+}
+form#crs-form {
+    text-align: left;
+}
+form#sinp-form{
+	margin-bottom: 20px;
+}
+form#mpnp-form {
+    text-align: left;
+}
+.more-information .table-bordered td{
+    border: 1px solid #dee2e6;
+    text-align: left;
+}
+
+
+
